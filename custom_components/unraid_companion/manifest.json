@@ -1,5 +1,5 @@
 {
-  "domain": "unraid_companion",
+  "domain": "unraid",
   "name": "Unraid",
   "codeowners": ["@Nedevski"],
   "config_flow": true,
