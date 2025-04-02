@@ -1,0 +1,10 @@
+{
+  "domain": "unraid",
+  "name": "Unraid",
+  "codeowners": ["@Nedevski"],
+  "config_flow": true,
+  "documentation": "https://github.com/Nedevski/hass_unraid_companion",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/Nedevski/hass_unraid_companion/issues",
+  "version": "0.0.1"
+}
